@@ -80,6 +80,11 @@ html {
   [class*="col-"] {
       padding: 1rem;
   }
+  .fa-linkedin :hover,
+  .fa-facebook :hover,
+  .fa-github :hover {
+    color : #AAAAAA;
+  }
  
 .fa-linkedin {
   color: #0072b1;
