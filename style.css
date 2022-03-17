@@ -24,6 +24,10 @@ html {
   min-height:80%;
 }
 
+.display-2 {
+  background-color: #3f3f3f;
+}
+
 .BlurryBackground {
   position: absolute;
   top: 0;
